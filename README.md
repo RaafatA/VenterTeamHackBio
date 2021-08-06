@@ -17,15 +17,15 @@ Adebayo Oluwafemi Adekunle
 
 MuntahaUmer
 
-<img src="https://user-images.githubusercontent.com/88343721/128332666-6e36e412-9ec4-46ad-b2ed-8c691e346e61.jpeg" alt="your name." width="300" height= "200"/>
+<img src="https://user-images.githubusercontent.com/88343721/128332666-6e36e412-9ec4-46ad-b2ed-8c691e346e61.jpeg" alt="your name." width="300" height= "300"/>
 
 Ureeza
 
-<img src="https://user-images.githubusercontent.com/88342626/128333454-09ecb286-2cc1-4b3c-88e2-a58bc11ffb6d.jpeg" alt="your name." width="300" height= "200"/>
+<img src="https://user-images.githubusercontent.com/88342626/128333454-09ecb286-2cc1-4b3c-88e2-a58bc11ffb6d.jpeg" alt="your name." width="300" height= "300"/>
 
 Kalen Ephraim Audu
 
-<img src="https://user-images.githubusercontent.com/88288273/128369648-491e9c9b-86c0-4067-9232-a65dfadd0615.jpg" alt="your name." width="300" height= "200"/>
+<img src="https://user-images.githubusercontent.com/88288273/128369648-491e9c9b-86c0-4067-9232-a65dfadd0615.jpg" alt="your name." width="300" height= "300"/>
 
 Hadeel khaled
 
