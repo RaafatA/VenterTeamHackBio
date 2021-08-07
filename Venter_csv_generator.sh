@@ -4,9 +4,9 @@
 #                                                                                                        #
 #  This script is hard coded to the extensions that our team has made only                               #
 #  and this is the output of this script on one file                                                     #
-#  but consider											     #
+#  but consider											         #
 #   > Script output will be in  2 columns  | 1st col : key - 2nd col: value | not require a container    #
-#   > multiple words has not spaces _ instead     							     #
+#   > multiple words has not spaces _ instead     						         #
 #   > consider order | output of scripts should be the same                                              #
 #   > You need to be able to install dependicies of language of scripts on your local machine            #
 #                                                                                                        #
