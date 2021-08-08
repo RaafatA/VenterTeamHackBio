@@ -23,7 +23,7 @@ def personal_details():
  example_dist = hamming_distance("@muntaha", "@munplmg")
 
  
- print(name,',',email,',', slackusername,',',biostack,',',twitter_handle,',',example_dist)
+ print(name,email, slackusername,biostack,twitter_handle,example_dist)
 
 
 personal_details()
