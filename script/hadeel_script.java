@@ -25,6 +25,7 @@ public class JavaApplication5 {
     public static void main(String[] args) {
 String str1 = "deela";
     String str2 = "doody";
+         
    System.out.print("hadeel khaled, deela2589@yahoo.co.uk, @deela, genomics, @doody,");
    System.out.print(hammingDist (str1, str2));
            
