@@ -18,7 +18,7 @@ def hamming_distance(myusername, mytwitter_handle):
 
 
 def personal_details():
- name, email,slackusername,biostack,twitter_handle, = "muntaha","muntaha.bsbi589@iiu.pk","@muntaha","drug developement_and_genomics","@muntaha111"
+ name, email,slackusername,biostack,twitter_handle, = "muntaha","muntaha.bsbi589@iiu.pk","@muntaha","drug_developement_and_genomics","@muntaha111"
 
  example_dist = hamming_distance("@muntaha", "@munplmg")
 
