@@ -1,7 +1,7 @@
 name='Kalen_Ephraim_Audu'
 email='kalenephraim14@gmail.com'
 slack_username='@Kalenephraim'
-biostack='Genomics'
+mybiostack='Genomics'
 twitter_handle='@kalenphraim'
 #create vectors
 myusername = c("@Kalenephraim")
