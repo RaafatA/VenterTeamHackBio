@@ -2,11 +2,11 @@
 
 #the command below clones the team sanger repo
 
-#git clone https://github.com/Egbusfem/VenterTeamHackBio.git
+git clone https://github.com/Egbusfem/VenterTeamHackBio.git
 
 # changing directory into the repo
 
-#cd ./VenterTeamHackBio
+cd ./VenterTeamHackBio
 
 # add the rights to execute the scripts in this repo
 
