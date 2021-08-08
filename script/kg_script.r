@@ -1,8 +1,8 @@
 {r}
-a = "kshitij gaikwad"
+a = "kshitij_gaikwad"
 b = "kshitijeaoff@gmail.com"
 c = "@kg"
-d = "drug development and genomics"
+d = "drug_development_and_genomics"
 e = "@kshitij31"
 cat(a,b,c,d,e)
 print("hamming distance")
