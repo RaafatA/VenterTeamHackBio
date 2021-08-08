@@ -17,7 +17,7 @@ cd ./VenterTeamHackBio
 
 
 # Create and Adding Header to the CSV file 
-echo "Name,Email,Slack ID,Biosteack,Twitter ID, Hamming Distance" >> Venter.csv
+echo "Name,Email,Slack_ID,Biosteack,Twitter_ID,Hamming_Distance" >> Venter.csv
 
 # add the rights to execute the scripts in this repo
 chmod +x script*
