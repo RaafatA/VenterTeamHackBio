@@ -1,4 +1,4 @@
-name = "Adebayo Oluwafemi Adekunle"
+name = "Adebayo_Oluwafemi_Adekunle"
 email = "adekunleadebayoolufemi@gmail.com"
 slackusername = "@Kunlebayo"
 biostack = "genomics"
