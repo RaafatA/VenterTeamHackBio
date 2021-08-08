@@ -15,9 +15,14 @@ git clone https://github.com/Egbusfem/VenterTeamHackBio.git
 
 cd ./VenterTeamHackBio
 
-# add the rights to execute the scripts in this repo
 
+# Create and Adding Header to the CSV file 
+echo "Name,Email,Slack ID,Biosteack,Twitter ID, Hamming Distance" >> Venter.csv
+
+# add the rights to execute the scripts in this repo
 chmod +x script*
+
+#Loop through all the files formats
 for file in script/*.jl
 do
     julia $file | awk -F ',' '{OFS="\t";print $1,$2,$3,$4,$5,$6}' >> Venter.csv
