@@ -19,6 +19,7 @@ print(hammingDist(str1, str2))
 
 
  def personal_details():
+        
     name, slack_username = "HIBBA", "2hibba"
     email , twitter_handle= "hibba.bsbi588@iiu.edu.pk", "@hibba0
     print("Name: {}\n: slack_username{}\n:  email{}\n: twitter_handle {}".format(HIBBA,hibba.bsbi588@iiu.edu.pk ,@hibba,@hibba0 ))
