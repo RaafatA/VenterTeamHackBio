@@ -18,7 +18,8 @@ public class Ureeza {
    int mp=hammingDistance (str1, str2);
         
  
-    System.out.print("@Yurrii,@Ureeza,bioinformatics,Ureeza Waqar,ureezawaqar0@gmail.com,");
+    System.out.print("Ureeza_Waqar,ureezawaqar0@gmail.com,@Ureeza,bioinformatics,@Yurrii,");
+        
      System.out.print(mp);
 
 
