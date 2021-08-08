@@ -6,4 +6,4 @@ twitterhandle = "@Kunlebayo"
 
 hammingdistance = "0"
 
-print name + "," + email + "," + slackusername + "," + biostack + "," + twitterhandle + "," + hammingdistance
+puts name + "," + email + "," + slackusername + "," + biostack + "," + twitterhandle + "," + hammingdistance
