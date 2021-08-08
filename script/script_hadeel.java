@@ -32,6 +32,7 @@ public class hadeel_script {
     String str2 = "doody";
  
     // function call
+      
   System.out.print (name);
     System.out.print (",");
     System.out.print (email);
