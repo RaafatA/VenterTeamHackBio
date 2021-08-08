@@ -4,10 +4,10 @@ changes directory from current where cloning is taking place to the TeamSanger_H
 It adds the rights to execute the scripts in this directory
 executes all scripts via the for loop.
 when executing this script you get the error of bad interpreter, consider checking the location of your
-executables using \'which\' command 
+executables using which command 
 Once you locate the path to your executable,
 edit the shebang of each script that has the error of bad interpreter or compiler'
-#the command below clones the team sanger repo
+#the command below clones the team Venter repo
 
 git clone https://github.com/Egbusfem/VenterTeamHackBio.git
 
