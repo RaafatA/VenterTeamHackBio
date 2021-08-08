@@ -21,11 +21,11 @@ int main()
     char slack[] = "Hadia";
     char twitter[] = "@Hamadia811";
     
-cout<<"Name: Hamadia Jan,"; 
-cout<<"Email: hamadia.jan811@gmail.com,";
-cout<<"slack handle: Hadia,";
-cout<<"Biostack: Genomics,";
-cout<<"twitter handle: @Hamadia811";
+cout<<"Hamadia_Jan,"; 
+cout<<"hamadia.jan811@gmail.com,";
+cout<<"Hadia,";
+cout<<"Genomics,";
+cout<<"@Hamadia811";
  
     // function call
     cout<<"\nHamming Distance = ";
