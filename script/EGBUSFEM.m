@@ -1,4 +1,4 @@
-name ='Samuel Oluwafemi Egbuwalo';
+name ='Samuel_Oluwafemi_Egbuwalo';
 
  
 email='femiegbuwalo@gmail.com';
@@ -7,7 +7,7 @@ email='femiegbuwalo@gmail.com';
 slackid='@Egbusfem';
 
  
-biostack='Drug Development';
+biostack='Drug_Development';
 
  
 twitterid = '@SamuelO72383686';
