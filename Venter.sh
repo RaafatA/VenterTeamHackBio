@@ -44,7 +44,8 @@ do
 done
 for file in script/*.cpp
 do 
-    g++ $file | awk -F ',' '{OFS="\t";print $1,$2,$3,$4,$5,$6}' >> Venter.csv
+    g++ $file -o Hadia
+    Hadia $file | awk -F ',' '{OFS="\t";print $1,$2,$3,$4,$5,$6}' >> Venter.csv
 	
 done
 for file in script/*.rb
