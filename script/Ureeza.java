@@ -13,9 +13,11 @@ public class Ureeza {
     return count;
 }
     public static void main(String[] args) {
+        
         String str1 = "Ureeza";
     String str2 = "Yurrii";
    int mp=hammingDistance (str1, str2);
+        
  
     System.out.print("@Yurrii,@Ureeza,bioinformatics,Ureeza Waqar,ureezawaqar0@gmail.com,");
      System.out.print(mp);
