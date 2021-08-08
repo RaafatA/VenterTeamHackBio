@@ -10,15 +10,5 @@ function hamming_distance(username::String, twitterusername::String)
     return dist_counter
 end
 
-hd = hamming_distance("RaafatA", "RaafatE")
-
-
-data = Dict("Name"=> "Raafat_Abdelmajeed", 
-      "Email"=>"Raafat.abdulmajeed@gmail.com", 
-      "username"=>"@RaafatA", 
-       "Biostack"=>"Drug_development",
-       "Twitter ID"=>"@RaafatF",
-       "hamming distance"=> hd)
-for (key, value) in data 
-    println(key ,",", value)
-end
+hd = hamming_distance("RaafatA", "RaafatF")
+print("Raafat_Abdelmajeed,Raafat.abdulmajeed@gmail.com,@RaafatA,Drug_development,@RaafatF,",string(hd))
