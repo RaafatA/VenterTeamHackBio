@@ -28,7 +28,7 @@ cout<<"Genomics,";
 cout<<"@Hamadia811";
  
     // function call
-    cout<<"\nHamming Distance = ";
+    
     cout << hammingdistanse (slack, twitter);
  
     return 0;
