@@ -1,4 +1,4 @@
-ef hammingDist(str1, str2):
+def hammingDist(str1, str2):
     i = 0
     count = 0
  
@@ -9,19 +9,18 @@ ef hammingDist(str1, str2):
     return count
  
 # Driver code 
-str1 = "hibba0"
-str2 = "hibba"
+str1 = "hibba"
+str2 = "hibbk"
  
 # function call
-print(hammingDist(str1, str2))
+p=hammingDist(str1, str2)
 
 
 
 
- def personal_details():
+def personal_details():
         
-    name, slack_username = "HIBBA", "2hibba"
-    email , twitter_handle= "hibba.bsbi588@iiu.edu.pk", "@hibba0
-    print("Name: {}\n: slack_username{}\n:  email{}\n: twitter_handle {}".format(HIBBA,hibba.bsbi588@iiu.edu.pk ,@hibba,@hibba0 ))
+    
+    print("HIBBA,","hibba.bsbi588@iiu.edu.pk," ,"@hibba,","@hibba0,",p )
 
 personal_details()
