@@ -44,5 +44,6 @@ public class hadeel_script {
     System.out.print (twitter_handle);
      System.out.print (",");
     System.out.print (hammingDist (str1, str2));
+      
 }
 }
